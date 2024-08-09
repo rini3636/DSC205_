@@ -2,3 +2,6 @@ matplotlib>3.8
 pandas>2.0
 streamlit==1.24.1
 pillow>=9.0
+sudo apt-get install libjpeg-dev zlib1g-dev
+pip3 install Pillow
+sudo pip install -U setuptools
